@@ -1,0 +1,60 @@
+.cor-texto{
+    color: pink;
+}
+
+.cor-fundo {
+    background-color: black;
+}
+
+#login {
+    float: right !important;
+    margin-right: 100px;
+}
+
+.destaque {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.img-responsive:hover {
+  cursor: pointer;
+}
+
+.imagem-unica {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  object-fit: unset;
+}
+
+.img-responsive {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  margin: 0 auto;
+  display: block;
+}
+
+.news-container {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.news-container:last-child {
+  border-bottom: none;
+}
+
+body {
+  background-color: #FFFAFA;
+}
+
+
+h2 {
+  color: #8B0000;
+}
+
+p {
+  color: #363636;
+}
